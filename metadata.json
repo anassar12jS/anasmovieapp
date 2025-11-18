@@ -1,0 +1,5 @@
+{
+  "name": "MovieStream AI",
+  "description": "An enhanced movie and TV show streaming platform with AI-powered recommendations. Discover trending content, explore genres, and get personalized suggestions by describing what you want to watch.",
+  "requestFramePermissions": []
+}
